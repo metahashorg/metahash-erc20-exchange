@@ -5,7 +5,7 @@ This repository contains C++ converter source code that allows to convert MHC to
 ## Kinds of conversion:
 
 1. MHC to ERC20. 
-This means transferring from MHC wallet to ETH wallet. As a result, ETH wallet will be replenished with ERC20 tokens. This is the transaction from user's MHC wallet to the system’s general MHC, ETH wallet is specified as a parameter in the Data field, ETH wallet is specified as a parameter in the Data field. 
+This means transferring from MHC wallet to ETH wallet. As a result, ETH wallet will be replenished with ERC20 tokens. This is the transaction from user's MHC wallet to the system’s general MHC, ETH wallet is specified as a parameter in the Data field. 
  
 
 2. ERC20 to MHC.
