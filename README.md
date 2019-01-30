@@ -2,7 +2,7 @@
 
 This repository contains C++ converter source code that allows to convert MHC to ERC20 and back. 
 
-## Kinds of conversion:
+## Kinds of conversion
 
 1. MHC to ERC20. 
 
