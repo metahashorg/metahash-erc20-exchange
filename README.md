@@ -14,7 +14,7 @@ Back conversion means that there will be two transactions performed:
 - from ETH wallet to the system’s general ETH wallet (ERC20 tokens are transferred)
 
 
-## Build and run 
+## Build and Run 
 
 1. Clone repository:  
 ```shell
